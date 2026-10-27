@@ -15,7 +15,7 @@ class DemoBankApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Demo Bank',
+      title: 'BCP',
       theme: ThemeData(
         useMaterial3: true,
         fontFamily: 'Arial',
